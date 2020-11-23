@@ -5,3 +5,8 @@ authors = ["whichxjy <whichxjy@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+log = "0.4.11"
+stdext = "0.2.1"
+
+[dev-dependencies]
+env_logger = "0.8.2"
