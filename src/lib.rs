@@ -1,3 +1,7 @@
+/*!
+Logging with function names.
+*/
+
 #[macro_export]
 macro_rules! fn_trace {
     ($x:expr $(, $($y:expr),+)?) => {

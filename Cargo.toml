@@ -2,6 +2,11 @@
 name = "fnlog"
 version = "0.1.0"
 authors = ["whichxjy <whichxjy@gmail.com>"]
+license = "MIT"
+description = "Logging with function names for Rust"
+documentation = "https://docs.rs/fnlog/"
+repository = "https://github.com/whichxjy/fnlog/"
+readme = "README.md"
 edition = "2018"
 
 [dependencies]
