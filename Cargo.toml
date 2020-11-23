@@ -1,9 +1,9 @@
 [package]
 name = "fnlog"
-version = "0.1.0"
+version = "0.1.2"
 authors = ["whichxjy <whichxjy@gmail.com>"]
 license = "MIT"
-description = "Logging with function names for Rust"
+description = "Logging with function names"
 documentation = "https://docs.rs/fnlog/"
 repository = "https://github.com/whichxjy/fnlog/"
 readme = "README.md"
